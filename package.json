@@ -4,7 +4,7 @@
   "description": "Projeto criado durante o aprendizado do framework de testes unitários Jest.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/devlimalucas/learning-jest/issues"
   },
-  "homepage": "https://github.com/devlimalucas/learning-jest#readme"
+  "homepage": "https://github.com/devlimalucas/learning-jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
