@@ -1,0 +1,20 @@
+{
+  "name": "learning-jest",
+  "version": "1.0.0",
+  "description": "Projeto criado durante o aprendizado do framework de testes unitários Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlimalucas/learning-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devlimalucas/learning-jest/issues"
+  },
+  "homepage": "https://github.com/devlimalucas/learning-jest#readme"
+}
